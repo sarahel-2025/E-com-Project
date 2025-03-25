@@ -44,6 +44,8 @@ li {
     list-style-type: none;
 }
 
+/* NAV BAR */
+
 .nav__link {
     margin-left: 16px;
     text-decoration: none;
@@ -65,6 +67,8 @@ li {
 .nav__link--primary:hover {
     text-align: none;
 }
+
+/* HEADER */
 
 header {
     height: calc(100vh - 80px);
@@ -99,6 +103,8 @@ h2 {
     text-align: center;
 }
 
+/* BUTTON */
+
 button {
     cursor: pointer;
 }
@@ -119,3 +125,18 @@ button:active {
 .header__img--wrapper {
     padding: 20px;
 }
+
+/* HIGHLIGHTS */
+
+.container {
+    padding: 56px 0;
+}
+
+.row {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/**/
+
