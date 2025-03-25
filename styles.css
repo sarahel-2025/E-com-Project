@@ -6,6 +6,10 @@
     font-family: "Roboto", sans-serif;
 }
 
+#landing {
+    background-color: #fff7c2;
+}
+
 nav {
     height: 80px;
     display: flex;
