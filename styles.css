@@ -104,7 +104,7 @@ button {
 }
 
 button:active {
-    transform: translateY(3px);
+    transform: translateY(1px);
 }
 
 .btn {
