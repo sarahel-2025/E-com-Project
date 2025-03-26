@@ -156,6 +156,7 @@ button:active {
 }
 .highlight__img {
     border: 2px solid #ffdd007c;
+    color: #ffdc00;
     width: 100px;
     height: 100px;
     display: flex;
@@ -169,5 +170,5 @@ button:active {
 .highlight__subtitle {
     font-size: 20px;
     margin-bottom: 16px;
-    
+
 }
