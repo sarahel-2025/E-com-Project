@@ -168,7 +168,6 @@ button:active {
     background-size: cover;
     background-repeat: no-repeat;
     transform: translateY(100%) rotate(180deg);
-    bottom: 1;
 }
 
 .highlight__wrapper {
@@ -206,7 +205,6 @@ button:active {
 .highlight__subtitle {
     font-size: 24px;
     margin-bottom: 16px;
-
 }
 
 /*FEATURES*/
