@@ -210,5 +210,6 @@ button:active {
 /*FEATURES*/
 
 #features {
+    height: 1000px;
     background-color: #fff7c2;
 }
