@@ -149,7 +149,7 @@ button:active {
 }
 
 #highlights:after,
-#hightlights:before {
+#highlights:before {
     background: url('assets/wave.svg');
     content: "";
     position: absolute;
