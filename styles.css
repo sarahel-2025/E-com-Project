@@ -216,3 +216,7 @@ button:active {
     height: 1000px;
     background-color: #fff7c2;
 }
+
+.book__img {
+    max-height: 300px;
+}
