@@ -147,6 +147,10 @@ button:active {
     align-items: center;
 }
 
+.no-cursor {
+    cursor: not-allowed;
+}
+
 /* HIGHLIGHTS */
 
 #highlights {
@@ -275,4 +279,15 @@ button:active {
 
 #explore {
     background-color: #fff7c2;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #242424;
+}
+
+.footer__logo--img {
+    width: 160px;
+    filter: grayscale(1) invert(1);
 }
